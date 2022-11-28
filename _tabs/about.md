@@ -4,12 +4,9 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
-
 Hi, welcome to my page and joining me on things I have learned I'm an IT professional with over 10 years of healthcare experience.
 
-<h1>This I'm currently doing</h1>
+<h1>This I'm currently learning</h1>
 _________________________________________________________________________________________________________________________
 - Studying for RHCSA 200 exam
 - Ansable
