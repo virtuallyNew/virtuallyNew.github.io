@@ -21,16 +21,16 @@ timezone:
 
 title: Jason Harvey                         # the main title
 
-tagline: A seasoned Information Technology professional   # it will display as the sub-title
+tagline: A seasoned healthcare Information Technology professional   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
-  professional odba
+  professional epic odba
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://virtuallyNew.github.io'
 
 github:
-  username: VirtuallyNew             # change to your github username
+  username: virtuallyNew             # change to your github username
 
 #twitter:
   #username: harvs19            # change to your twitter username
