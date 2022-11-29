@@ -14,12 +14,3 @@ ________________________________________________________________________________
 - Ansable
 - Epic ODBA job responsibilities
 
-<h1>Lab environment</h1>
-_________________________________________________________________________________________________________________________
-- HP Prolient 370 G7
-	- Dual Zeon processors
-	- 256 GB memoryy
-- QNAP
-	- NFS storage
-	- iSCSI storage
-
