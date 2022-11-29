@@ -1,6 +1,40 @@
 [
   
   {
+    "title": "Home Lab",
+    "url": "/posts/home-lab/",
+    "categories": "home lab",
+    "tags": "homelab",
+    "date": "2022-11-29 12:01:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "My current setup:VMware esxi",
+    "content": "My current setup:VMware esxi"
+  },
+  
+  {
+    "title": "Diagrams",
+    "url": "/posts/diagrams/",
+    "categories": "home lab, diagrams",
+    "tags": "network, diagrams",
+    "date": "2022-11-29 11:41:00 -0500",
+    
+
+
+
+
+
+    
+    "snippet": "This is my network diagram",
+    "content": "This is my network diagram"
+  },
+  
+  {
     "title": "My first Post",
     "url": "/posts/my-first-post/",
     "categories": "tutorial, quick tips",

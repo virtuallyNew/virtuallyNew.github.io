@@ -4,7 +4,7 @@
   <id>http://192.168.1.32:4000/</id>
   <title>Hi, I'm Jason</title>
   <subtitle>professional epic odba</subtitle>
-  <updated>2022-11-29T09:03:28-05:00</updated>
+  <updated>2022-11-29T12:03:36-05:00</updated>
   <author>
     <name>Jason Harvey</name>
     <uri>http://192.168.1.32:4000/</uri>
@@ -20,11 +20,87 @@
 
   
   <entry>
+    <title>Home Lab</title>
+    <link href="http://192.168.1.32:4000/posts/home-lab/" rel="alternate" type="text/html" title="Home Lab" />
+    <published>2022-11-29T12:01:00-05:00</published>
+  
+    <updated>2022-11-29T12:01:00-05:00</updated>
+  
+    <id>http://192.168.1.32:4000/posts/home-lab/</id>
+    <content src="http://192.168.1.32:4000/posts/home-lab/" />
+    <author>
+      <name>Jason Harvey</name>
+    </author>
+
+  
+    
+    <category term="home lab" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      My current setup:
+
+VMware esxi
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
+    <title>Diagrams</title>
+    <link href="http://192.168.1.32:4000/posts/diagrams/" rel="alternate" type="text/html" title="Diagrams" />
+    <published>2022-11-29T11:41:00-05:00</published>
+  
+    <updated>2022-11-29T11:41:00-05:00</updated>
+  
+    <id>http://192.168.1.32:4000/posts/diagrams/</id>
+    <content src="http://192.168.1.32:4000/posts/diagrams/" />
+    <author>
+      <name>Jason Harvey</name>
+    </author>
+
+  
+    
+    <category term="home lab" />
+    
+    <category term="diagrams" />
+    
+  
+
+  
+    <summary>
+      
+
+
+
+
+
+      This is my network diagram
+
+
+    </summary>
+  
+
+  </entry>
+
+  
+  <entry>
     <title>My first Post</title>
     <link href="http://192.168.1.32:4000/posts/my-first-post/" rel="alternate" type="text/html" title="My first Post" />
     <published>2022-11-28T18:44:00-05:00</published>
   
-    <updated>2022-11-28T21:40:54-05:00</updated>
+    <updated>2022-11-29T09:06:37-05:00</updated>
   
     <id>http://192.168.1.32:4000/posts/my-first-post/</id>
     <content src="http://192.168.1.32:4000/posts/my-first-post/" />
