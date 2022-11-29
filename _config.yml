@@ -19,9 +19,9 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Jason Harvey                         # the main title
+title: Hi, I'm Jason                         # the main title
 
-tagline: A seasoned healthcare Information Technology professional   # it will display as the sub-title
+tagline: A lifelong learner   # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   professional epic odba
