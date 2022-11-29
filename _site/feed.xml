@@ -2,9 +2,9 @@
 
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://192.168.1.32:4000/</id>
-  <title>Jason Harvey</title>
+  <title>Hi, I'm Jason</title>
   <subtitle>professional epic odba</subtitle>
-  <updated>2022-11-28T21:39:21-05:00</updated>
+  <updated>2022-11-29T09:03:28-05:00</updated>
   <author>
     <name>Jason Harvey</name>
     <uri>http://192.168.1.32:4000/</uri>
@@ -24,7 +24,7 @@
     <link href="http://192.168.1.32:4000/posts/my-first-post/" rel="alternate" type="text/html" title="My first Post" />
     <published>2022-11-28T18:44:00-05:00</published>
   
-    <updated>2022-11-28T21:36:21-05:00</updated>
+    <updated>2022-11-28T21:40:54-05:00</updated>
   
     <id>http://192.168.1.32:4000/posts/my-first-post/</id>
     <content src="http://192.168.1.32:4000/posts/my-first-post/" />
@@ -33,6 +33,10 @@
     </author>
 
   
+    
+    <category term="tutorial" />
+    
+    <category term="quick tips" />
     
   
 
@@ -44,10 +48,15 @@
 
 
 
-      This is my first post on RedHat. VI is used to edit files like this one.
+      This is my first post Jekyll and Chirpy. I used the Jekyll-Compose plug in to create the post. I then used VI to edit the markdown file in _posts.
 
+You can add catagories up to two levels and unlimited tags. The syntax is simple and just add the categories and tags into the existing header below date.
 
+categories: [ Animal, Insect ]
+tags: [ bee ]
+*remove the space [word]
 
+To add an avatar edit ...
     </summary>
   
 
