@@ -4,7 +4,7 @@
   <id>http://192.168.1.32:4000/</id>
   <title>Hi, I'm Jason</title>
   <subtitle>professional epic odba</subtitle>
-  <updated>2022-11-29T15:57:18-05:00</updated>
+  <updated>2023-07-30T09:47:09-04:00</updated>
   <author>
     <name>Jason Harvey</name>
     <uri>http://192.168.1.32:4000/</uri>
@@ -13,7 +13,7 @@
   <link rel="alternate" type="text/html" hreflang="en"
     href="http://192.168.1.32:4000/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.1">Jekyll</generator>
-  <rights> © 2022 Jason Harvey </rights>
+  <rights> © 2023 Jason Harvey </rights>
   <icon>/assets/img/favicons/favicon.ico</icon>
   <logo>/assets/img/favicons/favicon-96x96.png</logo>
 
